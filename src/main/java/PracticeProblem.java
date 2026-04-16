@@ -1,3 +1,10 @@
+/**
+	* Lesson: 3.5
+	* Author: Joe Yang
+	* Date Created: March 23, 2023
+	* Date Last Modified: March 26, 2026
+	*/
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
